@@ -1,0 +1,1 @@
+this is just a test file and we are gonna rock with django 
